@@ -1,0 +1,25 @@
+hr{
+    background-color: white;
+    border-style: none;
+    border-top: dotted;
+    width: 30%;
+    
+}
+h1{
+    color: #66BFBF;
+}
+/********************heading 3*********/
+h3{
+    color: #66BFBF ;
+}
+#top-container{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+#bottom-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}
